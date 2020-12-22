@@ -3,13 +3,7 @@
 @author: A-Bosh
 """
 from tkinter import *
-from PIL import ImageTk, Image
-from tkinter import messagebox,BooleanVar, Tk,  ttk,Label,Button,StringVar,IntVar,Checkbutton,Entry,LabelFrame
-import numpy as np
-import time
-import datetime
-import sys
-import os
+from tkinter import messagebox, Tk,  Button,LabelFrame
 from tkdocviewer import *
 class main:
     def __init__(self,master):
